@@ -1,0 +1,10 @@
+﻿addi r1,r0,1
+jp level1
+j end
+level1
+jp level2
+rp
+level2
+rp
+end
+addi r1,r1,1

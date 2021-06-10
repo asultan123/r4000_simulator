@@ -1,0 +1,8 @@
+﻿addi r4,r0,10
+sw r4,5(r2)
+lw r4,5(r2)
+sw r4,15(r2)
+add r4,r4,r4
+sw r4,10(r0)
+addi r2,r2,3
+sw r2,20(r0)

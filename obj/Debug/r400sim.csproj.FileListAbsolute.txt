@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\bin\Debug\r400sim.exe.config
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\bin\Debug\r400sim.exe
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\bin\Debug\r400sim.pdb
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.Form1.resources
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.Properties.Resources.resources
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.exe
+C:\Users\USER\Desktop\r400simgui\r400sim\r400sim\obj\Debug\r400sim.pdb
